@@ -1,0 +1,14 @@
+{
+    "name": "allysson/jobfinal",
+    "description": "php",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Allysson Azeredo Moura",
+            "email": "allysson.moura.azeredo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
